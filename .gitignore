@@ -1,0 +1,24 @@
+# Secrets
+config.py
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# User files and logs
+files/
+*.log
+
+# Editor settings
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
